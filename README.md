@@ -45,6 +45,12 @@ The project is organized into several components:
 ### **Prerequisites**
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Windows/macOS) or Docker Engine (Linux)
 
+Contributors with [Nix](https://nixos.org/) can enter a development shell containing the project's tooling.
+
+```sh
+nix develop
+```
+
 ---
 
 ### **Setup Instructions**
